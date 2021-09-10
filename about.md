@@ -23,7 +23,7 @@ Responsible for HR work, selecting interview and recruitment criteria to increas
 __Programming & Mathmatics Instructor__  
 __Weisman Academy for the Gifted__  
 -> Mathematics instructor who teaches mathematics prior learning for elementary and middle school students.  
-Coding instructor who teaches programming thinking to elementary school students (Scratch).
+Programming instructor who teaches programming thinking to elementary school students (Scratch).
 
 > __2014.03 ~ 2018.04__  
 __Researcher__  
