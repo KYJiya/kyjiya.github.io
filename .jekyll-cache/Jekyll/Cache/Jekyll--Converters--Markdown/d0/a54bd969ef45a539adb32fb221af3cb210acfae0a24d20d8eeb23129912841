@@ -1,0 +1,59 @@
+I"	<h1 id="career">CAREER</h1>
+<hr />
+<blockquote>
+  <p><strong>2021.07 ~</strong><br />
+<strong>Backend development manager</strong><br />
+<strong>Shiftone Co., Ltd.</strong><br />
+-&gt; Development backend api using python flask restx, fastapi. Build the CI/CD pipeline.</p>
+</blockquote>
+
+<blockquote>
+  <p><strong>2018.10 ~ 2021.06</strong><br />
+<strong>Senior Researcher</strong><br />
+<strong>Futuremain Co., Ltd.</strong><br />
+-&gt; Development and maintenance of data mining software and instrument drivers using LabVIEW and JAVA at a company with a web-based solution that automatically diagnoses the condition of large plants using vibration.
+Responsible for several PMs of national projects, forming friendly relationships with clients and subcontractors, as well as leading and managing schedules to ensure successful completion of projects.
+Responsible for HR work, selecting interview and recruitment criteria to increase the development team, laying the groundwork for hiring excellent talent.</p>
+</blockquote>
+
+<blockquote>
+  <p><strong>2018.06 ~ 2018.09</strong><br />
+<strong>Programming &amp; Mathmatics Instructor</strong><br />
+<strong>Weisman Academy for the Gifted</strong></p>
+</blockquote>
+
+<blockquote>
+  <p><strong>2014.03 ~ 2018.04</strong><br />
+<strong>Researcher</strong><br />
+<strong>Korea Astronomy &amp; Space Science Institute</strong></p>
+</blockquote>
+
+<blockquote>
+  <p><strong>2011 ~ 2014</strong><br />
+<strong>Ph.D candidate</strong> <br />
+<strong>Graduate School Kyung Hee University: School of Space Research</strong></p>
+</blockquote>
+
+<blockquote>
+  <p><strong>2004 ~ 2011</strong><br />
+<strong>Bachelor’s degree</strong><br />
+<strong>Kyung Hee University: Department of Astronomy &amp; Space Science</strong></p>
+</blockquote>
+
+<p><br /></p>
+
+<h1 id="portfolio">PORTFOLIO</h1>
+<hr />
+<blockquote>
+  <p><a href="https://dayelim.github.io">임다예 박사 업적 홈페이지 github를 사용하여 구현</a></p>
+</blockquote>
+
+<blockquote>
+  <p><a href="http://ec2-52-79-199-231.ap-northeast-2.compute.amazonaws.com/">스프링부트와 AWS로 혼자 구현하는 웹 서비스 책 완독 후 구현</a></p>
+</blockquote>
+
+<blockquote>
+  <p><a href="https://kyjiya.github.io/tic-tac-toe/">React로 구현하여 깃허브 배포까지 완료한 tic-tac-toe</a></p>
+</blockquote>
+
+:ET
