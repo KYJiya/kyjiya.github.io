@@ -2,7 +2,7 @@
 layout: page
 title: Kwon Yong Jun
 description: Shiftone Co., Ltd. Backend development manager Kwon Yong Jun
-background: '/img/bg-about.jpg'
+background: '/img/bg-about.png'
 ---
 
 * 임다예 박사 업적 홈페이지 github를 사용하여 구현: <https://dayelim.github.io>   
