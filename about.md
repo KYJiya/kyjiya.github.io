@@ -28,7 +28,7 @@ Programming instructor who teaches programming thinking to elementary school stu
 > __2014.03 ~ 2018.04__  
 __Researcher__  
 __Korea Astronomy & Space Science Institute__  
--> Operation of sunspot observing device, solar radio wave observing device, and solar radio burst locator (KSRBL).  
+-> Operation of solar telescope, solar radio wave observing telescope, and solar radio burst locator (KSRBL).  
 Upgrade of KSRBL operation program and post-processing of observation data (IDL and LabVIEW).  
 Implementation and study of simulations to predict the amount of radiation exposure of crew members of the International Space Station in the event of a solar explosion (FORTRAN)
 
@@ -37,7 +37,7 @@ __Ph.D candidate__
 __Graduate School Kyung Hee University: School of Space Research__  
 -> Solar physics simulation was studied.  
 Simulation code was written using Fortran to simulate explosions occurring in the sun,
-The result was processed and post-corrected using IDL language.
+the result was processed and post-corrected using IDL language.
 
 > __2004 ~ 2011__  
 __Bachelor's degree__  
@@ -45,8 +45,7 @@ __Kyung Hee University: Department of Astronomy & Space Science__
 -> Conduct active student council activities.  
 Held an academic event with the participation of students and requesting presentations from graduate school seniors and professors as the Student Council Academic Director.  
 Members were encouraged to participate in the event as the Grade Representative. Baseball, star observation club.  
-Space science is a field of science that includes everything 192 kilometers above Earth.  
-Therefore, I not only learned astronomy, mathematics, physics, and chemistry, which are pure sciences, but also took basic optics to help understand telescopes, fluid mechanics and electromagnetics necessary for rocket design, C++, Labview language classes for machine control, and IDL script language for data analysis.  
+Therefore, I do not only learned astronomy, mathematics, physics, and chemistry, which are pure sciences, but also took basic optics to help understand telescopes, fluid mechanics and electromagnetics necessary for rocket design, C++, Labview language classes for machine control, and IDL script language for data analysis.  
 Also, I was interested in software development, took other classes such as Continuous and Descrete Signals and Systems, and Data Structures.  
 <br>
 
