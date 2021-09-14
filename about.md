@@ -9,7 +9,7 @@ background: '/img/bg-about.jpg'
 > __2021.07 ~__  
 __Backend development manager__  
 __Shiftone Co., Ltd.__  
--> Development backend api using python flask restx, fastapi.  
+-> Development backend API using FLASK-RESTX or FastAPI of Python.  
 Build the CI/CD pipeline.
 
 > __2018.10 ~ 2021.06__  
