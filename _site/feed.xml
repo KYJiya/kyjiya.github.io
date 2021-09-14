@@ -1,4 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://kyjiya.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kyjiya.github.io/" rel="alternate" type="text/html" /><updated>2021-09-11T01:59:29+09:00</updated><id>https://kyjiya.github.io/feed.xml</id><title type="html">Dajun’s Creed</title><subtitle>Shiftone Co., Ltd. Backend development manager Kwon Yong Jun</subtitle><author><name>Kwon Yong Jun</name></author><entry><title type="html">항상 그만두기</title><link href="https://kyjiya.github.io/2021/08/06/%ED%95%AD%EC%83%81-%EA%B7%B8%EB%A7%8C%EB%91%90%EA%B8%B0.html" rel="alternate" type="text/html" title="항상 그만두기" /><published>2021-08-06T05:01:13+09:00</published><updated>2021-08-06T05:01:13+09:00</updated><id>https://kyjiya.github.io/2021/08/06/%ED%95%AD%EC%83%81%20%EA%B7%B8%EB%A7%8C%EB%91%90%EA%B8%B0</id><content type="html" xml:base="https://kyjiya.github.io/2021/08/06/%ED%95%AD%EC%83%81-%EA%B7%B8%EB%A7%8C%EB%91%90%EA%B8%B0.html">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://kyjiya.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kyjiya.github.io/" rel="alternate" type="text/html" /><updated>2021-09-14T23:48:10+09:00</updated><id>https://kyjiya.github.io/feed.xml</id><title type="html">Dajun’s Creed</title><subtitle>Shiftone Co., Ltd. Backend Development Manager Kwon Yong Jun</subtitle><author><name>Kwon Yong Jun</name></author><entry><title type="html">WSL2 - Ubuntu 20.04 Snap store doesn’t work due to systemd dependency</title><link href="https://kyjiya.github.io/2021/09/14/WSL2-Ubuntu-20.04-Snap-store-doesn't-work-due-to-systemd-dependency.html" rel="alternate" type="text/html" title="WSL2 - Ubuntu 20.04 Snap store doesn’t work due to systemd dependency" /><published>2021-09-14T09:16:13+09:00</published><updated>2021-09-14T09:16:13+09:00</updated><id>https://kyjiya.github.io/2021/09/14/WSL2%20-%20Ubuntu%2020.04%20Snap%20store%20doesn&apos;t%20work%20due%20to%20systemd%20dependency</id><content type="html" xml:base="https://kyjiya.github.io/2021/09/14/WSL2-Ubuntu-20.04-Snap-store-doesn&apos;t-work-due-to-systemd-dependency.html">&lt;h1 id=&quot;wsl2-ubuntu-2004-에서-snap-store-가-작동하지-않는다&quot;&gt;WSL2 Ubuntu 20.04 에서 Snap store 가 작동하지 않는다.&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;-작동하지-않는-현상-확인&quot;&gt;* 작동하지 않는 현상 확인.&lt;/h2&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ snap version
+snap    2.49.2+20.04
+snapd   unavailable
+series  -
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;-해결책&quot;&gt;* 해결책&lt;/h2&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo apt-get update 
+$ sudo apt-get install -yqq daemonize dbus-user-session fontconfig
+$ sudo daemonize /usr/bin/unshare --fork --pid --mount-proc /lib/systemd/systemd --system-unit=basic.target
+$ exec sudo nsenter -t $(pidof systemd) -a su - $LOGNAME
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;-해결되었는지-확인&quot;&gt;* 해결되었는지 확인&lt;/h2&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ snap version
+snap    2.51.3
+snapd   2.51.3
+series  16
+ubuntu  20.04
+kernel  5.10.16.3-microsoft-standard-WSL2
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h6 id=&quot;-출처--httpsgithubcommicrosoftwslissues5126&quot;&gt;* 출처 : &lt;a href=&quot;https://github.com/microsoft/WSL/issues/5126&quot;&gt;https://github.com/microsoft/WSL/issues/5126&lt;/a&gt;&lt;/h6&gt;</content><author><name>Kwon Yong Jun</name></author><summary type="html">WSL2 Ubuntu 20.04 에서 Snap store 가 작동하지 않는다. * 작동하지 않는 현상 확인.</summary></entry><entry><title type="html">항상 그만두기</title><link href="https://kyjiya.github.io/2021/08/06/%ED%95%AD%EC%83%81-%EA%B7%B8%EB%A7%8C%EB%91%90%EA%B8%B0.html" rel="alternate" type="text/html" title="항상 그만두기" /><published>2021-08-06T05:01:13+09:00</published><updated>2021-08-06T05:01:13+09:00</updated><id>https://kyjiya.github.io/2021/08/06/%ED%95%AD%EC%83%81%20%EA%B7%B8%EB%A7%8C%EB%91%90%EA%B8%B0</id><content type="html" xml:base="https://kyjiya.github.io/2021/08/06/%ED%95%AD%EC%83%81-%EA%B7%B8%EB%A7%8C%EB%91%90%EA%B8%B0.html">&lt;ul&gt;
   &lt;li&gt;직장에서 생활하는 좋은 철학은 “Always be quitting”&lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;계속 퇴사할 생각을 하라는 게 아니라, 언제라도 떠날 수 있게 행동 하라는 것&lt;br /&gt;

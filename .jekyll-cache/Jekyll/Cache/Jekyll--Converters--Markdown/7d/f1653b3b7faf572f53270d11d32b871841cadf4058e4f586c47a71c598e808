@@ -1,0 +1,31 @@
+I"�<h1 id="wsl2-ubuntu-2004-에서-snap-store-가-작동하지-않는다">WSL2 Ubuntu 20.04 에서 Snap store 가 작동하지 않는다.</h1>
+<p><br /></p>
+<h2 id="-작동하지-않는-현상-확인">* 작동하지 않는 현상 확인.</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ snap version
+snap    2.49.2+20.04
+snapd   unavailable
+series  -
+
+</code></pre></div></div>
+
+<h2 id="-해결책">* 해결책</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sudo apt-get update 
+$ sudo apt-get install -yqq daemonize dbus-user-session fontconfig
+$ sudo daemonize /usr/bin/unshare --fork --pid --mount-proc /lib/systemd/systemd --system-unit=basic.target
+$ exec sudo nsenter -t $(pidof systemd) -a su - $LOGNAME
+
+</code></pre></div></div>
+
+<h2 id="-해결되었는지-확인">* 해결되었는지 확인</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ snap version
+snap    2.51.3
+snapd   2.51.3
+series  16
+ubuntu  20.04
+kernel  5.10.16.3-microsoft-standard-WSL2
+
+</code></pre></div></div>
+:ET
