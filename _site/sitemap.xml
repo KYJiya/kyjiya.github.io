@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://kyjiya.github.io/2021/08/06/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%98%A8%EB%B3%B4%EB%94%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-_-%EC%B2%AB-90%EC%9D%BC%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%84%ED%9A%8D%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C.html</loc>
+<loc>https://kyjiya.github.io/2021/08/06/0001-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%98%A8%EB%B3%B4%EB%94%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-_-%EC%B2%AB-90%EC%9D%BC%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%84%ED%9A%8D%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C.html</loc>
 <lastmod>2021-08-06T02:50:13+09:00</lastmod>
 </url>
 <url>
-<loc>https://kyjiya.github.io/2021/08/06/%ED%95%AD%EC%83%81-%EA%B7%B8%EB%A7%8C%EB%91%90%EA%B8%B0.html</loc>
+<loc>https://kyjiya.github.io/2021/08/06/0002-%ED%95%AD%EC%83%81-%EA%B7%B8%EB%A7%8C%EB%91%90%EA%B8%B0.html</loc>
 <lastmod>2021-08-06T05:01:13+09:00</lastmod>
 </url>
 <url>
-<loc>https://kyjiya.github.io/2021/09/14/WSL2-Ubuntu-20.04-Snap-store-doesn&apos;t-work-due-to-systemd-dependency.html</loc>
+<loc>https://kyjiya.github.io/2021/09/14/0001-WSL2-Ubuntu-20.04-Snap-store-doesn&apos;t-work-due-to-systemd-dependency.html</loc>
+<lastmod>2021-09-14T09:16:13+09:00</lastmod>
+</url>
+<url>
+<loc>https://kyjiya.github.io/2021/09/14/0002-kube-apiserver-install-via-snap.html</loc>
 <lastmod>2021-09-14T09:16:13+09:00</lastmod>
 </url>
 <url>

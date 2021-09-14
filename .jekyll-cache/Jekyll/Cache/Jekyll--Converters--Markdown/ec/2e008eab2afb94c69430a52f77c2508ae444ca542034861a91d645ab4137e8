@@ -1,0 +1,5 @@
+I"�<h1 id="snap을-통해-kube-apiserver를-설치해-보자">Snap을 통해 kube-apiserver를 설치해 보자.</h1>
+<p><br />
+```
+$ sudo snap install kube-apiserver</p>
+:ET
