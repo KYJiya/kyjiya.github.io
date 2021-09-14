@@ -9,5 +9,6 @@ background: '/img/posts/07.jpg'
 <br>
 ```
 $ sudo snap install kube-apiserver
+kube-apiserver 1.21.4 from Canonical✓ installed
 
 ```
