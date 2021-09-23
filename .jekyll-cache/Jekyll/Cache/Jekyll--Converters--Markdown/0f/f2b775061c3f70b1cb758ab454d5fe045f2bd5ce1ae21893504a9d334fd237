@@ -1,0 +1,6 @@
+I"�<h1 id="snap을-통해-kube-scheduler를-설치해-보자">Snap을 통해 kube-scheduler를 설치해 보자.</h1>
+<p><br />
+```
+$ sudo snap install kube-scheduler
+kube-scheduler 1.21.4 from Canonical✓ installed</p>
+:ET
