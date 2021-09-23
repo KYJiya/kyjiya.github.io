@@ -19,3 +19,5 @@ $ kube-apiserver --version
 Kubernetes v1.22.2
 
 ```
+
+## wsl2 ubuntu에서 재시작하는 경우 snapd를 다시 활성화 한 뒤 체크
