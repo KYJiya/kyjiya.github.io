@@ -12,3 +12,10 @@ $ sudo snap install kube-apiserver
 kube-apiserver 1.21.4 from Canonical✓ installed
 
 ```
+
+## 확인
+```
+$ kube-apiserver --version
+Kubernetes v1.22.2
+
+```
