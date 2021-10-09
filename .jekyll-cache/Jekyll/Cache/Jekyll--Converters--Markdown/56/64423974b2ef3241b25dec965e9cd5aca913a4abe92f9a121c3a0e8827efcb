@@ -1,0 +1,14 @@
+I"�<h1 id="error-internal-load-metadata-for-dockeriolibrarygolang1141-alpine311">ERROR [internal] load metadata for docker.io/library/golang:1.14.1-alpine3.11</h1>
+<p><br /></p>
+
+<h2 id="working-quick-fix">Working Quick-Fix</h2>
+
+<p>disabling the buildkit feature by configuring the Docker Engine via Docker Desktop solves this issue.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>"features": {
+    "buildkit": false
+  }
+
+</code></pre></div></div>
+
+<h6 id="-출처--httpsgithubcomdockerfor-winissues11261">* 출처 : <a href="https://github.com/docker/for-win/issues/11261">https://github.com/docker/for-win/issues/11261</a></h6>
+:ET

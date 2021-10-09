@@ -1,14 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://kyjiya.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kyjiya.github.io/" rel="alternate" type="text/html" /><updated>2021-09-15T00:09:42+09:00</updated><id>https://kyjiya.github.io/feed.xml</id><title type="html">Dajun’s Creed</title><subtitle>Shiftone Co., Ltd. Backend Development Manager Kwon Yong Jun</subtitle><author><name>Kwon Yong Jun</name></author><entry><title type="html">kube-scheduler install via snap</title><link href="https://kyjiya.github.io/2021/09/14/0003-kube-scheduler-install-via-snap.html" rel="alternate" type="text/html" title="kube-scheduler install via snap" /><published>2021-09-14T09:16:13+09:00</published><updated>2021-09-14T09:16:13+09:00</updated><id>https://kyjiya.github.io/2021/09/14/0003-kube-scheduler%20install%20via%20snap</id><content type="html" xml:base="https://kyjiya.github.io/2021/09/14/0003-kube-scheduler-install-via-snap.html">&lt;h1 id=&quot;snap을-통해-kube-scheduler를-설치해-보자&quot;&gt;Snap을 통해 kube-scheduler를 설치해 보자.&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://kyjiya.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kyjiya.github.io/" rel="alternate" type="text/html" /><updated>2021-10-10T03:41:32+09:00</updated><id>https://kyjiya.github.io/feed.xml</id><title type="html">Dajun’s Creed</title><subtitle>Shiftone Co., Ltd. Backend Development Manager Kwon Yong Jun</subtitle><author><name>Kwon Yong Jun</name></author><entry><title type="html">swapoff not working in docker desktop linux image based on wsl</title><link href="https://kyjiya.github.io/2021/10/09/0001-WSL-swapoff-not-working.html" rel="alternate" type="text/html" title="swapoff not working in docker desktop linux image based on wsl" /><published>2021-10-09T13:16:13+09:00</published><updated>2021-10-09T13:16:13+09:00</updated><id>https://kyjiya.github.io/2021/10/09/0001-WSL%20-%20swapoff%20not%20working</id><content type="html" xml:base="https://kyjiya.github.io/2021/10/09/0001-WSL-swapoff-not-working.html">&lt;h1 id=&quot;wsl-기반-docker-desktop으로-구동한-linux에서-swapoff가-동작하지-않을-때&quot;&gt;wsl 기반 docker desktop으로 구동한 linux에서 swapoff가 동작하지 않을 때.&lt;/h1&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo snap install kube-scheduler
-kube-scheduler 1.21.4 from Canonical✓ installed
 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Kwon Yong Jun</name></author><summary type="html">Snap을 통해 kube-scheduler를 설치해 보자. ``` $ sudo snap install kube-scheduler kube-scheduler 1.21.4 from Canonical✓ installed</summary></entry><entry><title type="html">kube-apiserver install via snap</title><link href="https://kyjiya.github.io/2021/09/14/0002-kube-apiserver-install-via-snap.html" rel="alternate" type="text/html" title="kube-apiserver install via snap" /><published>2021-09-14T09:16:13+09:00</published><updated>2021-09-14T09:16:13+09:00</updated><id>https://kyjiya.github.io/2021/09/14/0002-kube-apiserver%20install%20via%20snap</id><content type="html" xml:base="https://kyjiya.github.io/2021/09/14/0002-kube-apiserver-install-via-snap.html">&lt;h1 id=&quot;snap을-통해-kube-apiserver를-설치해-보자&quot;&gt;Snap을 통해 kube-apiserver를 설치해 보자.&lt;/h1&gt;
+&lt;h2 id=&quot;cusersusername-아래에-wslconfig-파일을-생성한-후-다음과-같이-설정한다&quot;&gt;C:\Users\&amp;lt;UserName&amp;gt;\ 아래에 .wslconfig 파일을 생성한 후 다음과 같이 설정한다.&lt;/h2&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;
+[wsl2]
+swap=0
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Kwon Yong Jun</name></author><summary type="html">wsl 기반 docker desktop으로 구동한 linux에서 swapoff가 동작하지 않을 때.</summary></entry><entry><title type="html">ERROR [internal] load metadata for docker.io/library/golang:1.14.1-alpine3.11</title><link href="https://kyjiya.github.io/2021/09/27/0001-WSL-docker-error.html" rel="alternate" type="text/html" title="ERROR [internal] load metadata for docker.io/library/golang:1.14.1-alpine3.11" /><published>2021-09-27T13:16:13+09:00</published><updated>2021-09-27T13:16:13+09:00</updated><id>https://kyjiya.github.io/2021/09/27/0001-WSL%20docker%20error</id><content type="html" xml:base="https://kyjiya.github.io/2021/09/27/0001-WSL-docker-error.html">&lt;h1 id=&quot;error-internal-load-metadata-for-dockeriolibrarygolang1141-alpine311&quot;&gt;ERROR [internal] load metadata for docker.io/library/golang:1.14.1-alpine3.11&lt;/h1&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo snap install kube-apiserver
-kube-apiserver 1.21.4 from Canonical✓ installed
 
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Kwon Yong Jun</name></author><summary type="html">Snap을 통해 kube-apiserver를 설치해 보자. ``` $ sudo snap install kube-apiserver kube-apiserver 1.21.4 from Canonical✓ installed</summary></entry><entry><title type="html">WSL2 - Ubuntu 20.04 Snap store doesn’t work due to systemd dependency</title><link href="https://kyjiya.github.io/2021/09/14/0001-WSL2-Ubuntu-20.04-Snap-store-doesn't-work-due-to-systemd-dependency.html" rel="alternate" type="text/html" title="WSL2 - Ubuntu 20.04 Snap store doesn’t work due to systemd dependency" /><published>2021-09-14T09:16:13+09:00</published><updated>2021-09-14T09:16:13+09:00</updated><id>https://kyjiya.github.io/2021/09/14/0001-WSL2%20-%20Ubuntu%2020.04%20Snap%20store%20doesn&apos;t%20work%20due%20to%20systemd%20dependency</id><content type="html" xml:base="https://kyjiya.github.io/2021/09/14/0001-WSL2-Ubuntu-20.04-Snap-store-doesn&apos;t-work-due-to-systemd-dependency.html">&lt;h1 id=&quot;wsl2-ubuntu-2004-에서-snap-store-가-작동하지-않는다&quot;&gt;WSL2 Ubuntu 20.04 에서 Snap store 가 작동하지 않는다.&lt;/h1&gt;
+&lt;h2 id=&quot;working-quick-fix&quot;&gt;Working Quick-Fix&lt;/h2&gt;
+
+&lt;p&gt;disabling the buildkit feature by configuring the Docker Engine via Docker Desktop solves this issue.&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&quot;features&quot;: {
+    &quot;buildkit&quot;: false
+  }
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h6 id=&quot;-출처--httpsgithubcomdockerfor-winissues11261&quot;&gt;* 출처 : &lt;a href=&quot;https://github.com/docker/for-win/issues/11261&quot;&gt;https://github.com/docker/for-win/issues/11261&lt;/a&gt;&lt;/h6&gt;</content><author><name>Kwon Yong Jun</name></author><summary type="html">ERROR [internal] load metadata for docker.io/library/golang:1.14.1-alpine3.11</summary></entry><entry><title type="html">etcd install</title><link href="https://kyjiya.github.io/2021/09/24/0004-etcd-install.html" rel="alternate" type="text/html" title="etcd install" /><published>2021-09-24T13:16:13+09:00</published><updated>2021-09-24T13:16:13+09:00</updated><id>https://kyjiya.github.io/2021/09/24/0004-etcd%20install</id><content type="html" xml:base="https://kyjiya.github.io/2021/09/24/0004-etcd-install.html">&lt;h1 id=&quot;etcd를-설치해-보자&quot;&gt;etcd를 설치해 보자.&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ ETCD_VER=v3.5.0
+
+$ GOOGLE_URL=https://storage.googleapis.com/etcd
+$ GITHUB_URL=https://github.com/etcd-io/etcd/releases/download
+$ DOWNLOAD_URL=${GOOGLE_URL}
+
+$ curl -L ${DOWNLOAD_URL}/${ETCD_VER}/etcd-${ETCD_VER}-linux-amd64.tar.gz -o /tmp/etcd-${ETCD_VER}-linux-amd64.tar.gz
+$ sudo tar xzvf /tmp/etcd-${ETCD_VER}-linux-amd64.tar.gz -C /usr/local/bin --strip-components=1
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;확인&quot;&gt;확인&lt;/h2&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ etcd --version
+etcd Version: 3.5.0
+Git SHA: 946a5a6f2
+Go Version: go1.16.3
+Go OS/Arch: linux/amd64
+
+$ etcdctl version
+etcdctl version: 3.5.0
+API version: 3.5
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h6 id=&quot;-출처--httpsetcdiodocsv35install&quot;&gt;* 출처 : &lt;a href=&quot;https://etcd.io/docs/v3.5/install/&quot;&gt;https://etcd.io/docs/v3.5/install/&lt;/a&gt;&lt;/h6&gt;</content><author><name>Kwon Yong Jun</name></author><summary type="html">etcd를 설치해 보자. ``` $ ETCD_VER=v3.5.0</summary></entry><entry><title type="html">WSL2 - Ubuntu 20.04 Snap store doesn’t work due to systemd dependency</title><link href="https://kyjiya.github.io/2021/09/14/0001-WSL2-Ubuntu-20.04-Snap-store-doesn't-work-due-to-systemd-dependency.html" rel="alternate" type="text/html" title="WSL2 - Ubuntu 20.04 Snap store doesn’t work due to systemd dependency" /><published>2021-09-14T09:16:13+09:00</published><updated>2021-09-14T09:16:13+09:00</updated><id>https://kyjiya.github.io/2021/09/14/0001-WSL2%20-%20Ubuntu%2020.04%20Snap%20store%20doesn&apos;t%20work%20due%20to%20systemd%20dependency</id><content type="html" xml:base="https://kyjiya.github.io/2021/09/14/0001-WSL2-Ubuntu-20.04-Snap-store-doesn&apos;t-work-due-to-systemd-dependency.html">&lt;h1 id=&quot;wsl2-ubuntu-2004-에서-snap-store-가-작동하지-않는다&quot;&gt;WSL2 Ubuntu 20.04 에서 Snap store 가 작동하지 않는다.&lt;/h1&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h2 id=&quot;-작동하지-않는-현상-확인&quot;&gt;* 작동하지 않는 현상 확인.&lt;/h2&gt;
 
@@ -39,7 +75,52 @@ kernel  5.10.16.3-microsoft-standard-WSL2
 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h6 id=&quot;-출처--httpsgithubcommicrosoftwslissues5126&quot;&gt;* 출처 : &lt;a href=&quot;https://github.com/microsoft/WSL/issues/5126&quot;&gt;https://github.com/microsoft/WSL/issues/5126&lt;/a&gt;&lt;/h6&gt;</content><author><name>Kwon Yong Jun</name></author><summary type="html">WSL2 Ubuntu 20.04 에서 Snap store 가 작동하지 않는다. * 작동하지 않는 현상 확인.</summary></entry><entry><title type="html">항상 그만두기</title><link href="https://kyjiya.github.io/2021/08/06/0002-%ED%95%AD%EC%83%81-%EA%B7%B8%EB%A7%8C%EB%91%90%EA%B8%B0.html" rel="alternate" type="text/html" title="항상 그만두기" /><published>2021-08-06T05:01:13+09:00</published><updated>2021-08-06T05:01:13+09:00</updated><id>https://kyjiya.github.io/2021/08/06/0002-%ED%95%AD%EC%83%81%20%EA%B7%B8%EB%A7%8C%EB%91%90%EA%B8%B0</id><content type="html" xml:base="https://kyjiya.github.io/2021/08/06/0002-%ED%95%AD%EC%83%81-%EA%B7%B8%EB%A7%8C%EB%91%90%EA%B8%B0.html">&lt;ul&gt;
+&lt;h2 id=&quot;-리눅스를-껐다-켜는-경우-다시-snapd가-비활성화-되는-현상&quot;&gt;* 리눅스를 껐다 켜는 경우 다시 snapd가 비활성화 되는 현상&lt;/h2&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ nano ~/.bashrc
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3 id=&quot;아래-내용을-붙여-넣기&quot;&gt;아래 내용을 붙여 넣기&lt;/h3&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;if [ -z &quot;$(pidof systemd)&quot; ]; then
+    sudo daemonize /usr/bin/unshare --fork --pid --mount-proc /lib/systemd/systemd --system-unit=basic.target
+fi;
+
+alias ssnap=&quot;exec sudo nsenter -t $(pidof -s systemd) -a su - $LOGNAME&quot;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3 id=&quot;리눅스를-다시-켤-때-마다-아래-명령어-입력&quot;&gt;리눅스를 다시 켤 때 마다 아래 명령어 입력&lt;/h3&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ ssnap
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h6 id=&quot;-출처--httpsgithubcommicrosoftwslissues5126&quot;&gt;* 출처 : &lt;a href=&quot;https://github.com/microsoft/WSL/issues/5126&quot;&gt;https://github.com/microsoft/WSL/issues/5126&lt;/a&gt;&lt;/h6&gt;</content><author><name>Kwon Yong Jun</name></author><summary type="html">WSL2 Ubuntu 20.04 에서 Snap store 가 작동하지 않는다. * 작동하지 않는 현상 확인.</summary></entry><entry><title type="html">kube-apiserver install via snap</title><link href="https://kyjiya.github.io/2021/09/14/0002-kube-apiserver-install-via-snap.html" rel="alternate" type="text/html" title="kube-apiserver install via snap" /><published>2021-09-14T09:16:13+09:00</published><updated>2021-09-14T09:16:13+09:00</updated><id>https://kyjiya.github.io/2021/09/14/0002-kube-apiserver%20install%20via%20snap</id><content type="html" xml:base="https://kyjiya.github.io/2021/09/14/0002-kube-apiserver-install-via-snap.html">&lt;h1 id=&quot;snap을-통해-kube-apiserver를-설치해-보자&quot;&gt;Snap을 통해 kube-apiserver를 설치해 보자.&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo snap install kube-apiserver
+kube-apiserver 1.21.4 from Canonical✓ installed
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;확인&quot;&gt;확인&lt;/h2&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ kube-apiserver --version
+Kubernetes v1.22.2
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;wsl2-ubuntu에서-재시작하는-경우-snapd를-다시-활성화-한-뒤-체크&quot;&gt;wsl2 ubuntu에서 재시작하는 경우 snapd를 다시 활성화 한 뒤 체크&lt;/h2&gt;</content><author><name>Kwon Yong Jun</name></author><summary type="html">Snap을 통해 kube-apiserver를 설치해 보자. ``` $ sudo snap install kube-apiserver kube-apiserver 1.21.4 from Canonical✓ installed</summary></entry><entry><title type="html">kube-scheduler install via snap</title><link href="https://kyjiya.github.io/2021/09/14/0003-kube-scheduler-install-via-snap.html" rel="alternate" type="text/html" title="kube-scheduler install via snap" /><published>2021-09-14T09:16:13+09:00</published><updated>2021-09-14T09:16:13+09:00</updated><id>https://kyjiya.github.io/2021/09/14/0003-kube-scheduler%20install%20via%20snap</id><content type="html" xml:base="https://kyjiya.github.io/2021/09/14/0003-kube-scheduler-install-via-snap.html">&lt;h1 id=&quot;snap을-통해-kube-scheduler를-설치해-보자&quot;&gt;Snap을 통해 kube-scheduler를 설치해 보자.&lt;/h1&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ sudo snap install kube-scheduler
+kube-scheduler 1.21.4 from Canonical✓ installed
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;확인&quot;&gt;확인&lt;/h2&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ kube-scheduler --version
+Kubernetes v1.21.5
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;wsl2-ubuntu에서-재시작하는-경우-snapd를-다시-활성화-한-뒤-체크&quot;&gt;wsl2 ubuntu에서 재시작하는 경우 snapd를 다시 활성화 한 뒤 체크&lt;/h2&gt;</content><author><name>Kwon Yong Jun</name></author><summary type="html">Snap을 통해 kube-scheduler를 설치해 보자. ``` $ sudo snap install kube-scheduler kube-scheduler 1.21.4 from Canonical✓ installed</summary></entry><entry><title type="html">항상 그만두기</title><link href="https://kyjiya.github.io/2021/08/06/0002-%ED%95%AD%EC%83%81-%EA%B7%B8%EB%A7%8C%EB%91%90%EA%B8%B0.html" rel="alternate" type="text/html" title="항상 그만두기" /><published>2021-08-06T05:01:13+09:00</published><updated>2021-08-06T05:01:13+09:00</updated><id>https://kyjiya.github.io/2021/08/06/0002-%ED%95%AD%EC%83%81%20%EA%B7%B8%EB%A7%8C%EB%91%90%EA%B8%B0</id><content type="html" xml:base="https://kyjiya.github.io/2021/08/06/0002-%ED%95%AD%EC%83%81-%EA%B7%B8%EB%A7%8C%EB%91%90%EA%B8%B0.html">&lt;ul&gt;
   &lt;li&gt;직장에서 생활하는 좋은 철학은 “Always be quitting”&lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;계속 퇴사할 생각을 하라는 게 아니라, 언제라도 떠날 수 있게 행동 하라는 것&lt;br /&gt;

@@ -1,6 +1,0 @@
-I"%<h1 id="snap을-통해-kube-apiserver를-설치해-보자">Snap을 통해 kube-apiserver를 설치해 보자.</h1>
-<p><br /></p>
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sudo snap install kube-apiserver
-
-</code></pre></div></div>
-:ET

@@ -1,0 +1,28 @@
+I"<h1 id="etcd를-설치해-보자">etcd를 설치해 보자.</h1>
+<p><br /></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ ETCD_VER=v3.5.0
+
+$ GOOGLE_URL=https://storage.googleapis.com/etcd
+$ GITHUB_URL=https://github.com/etcd-io/etcd/releases/download
+$ DOWNLOAD_URL=${GOOGLE_URL}
+
+$ curl -L ${DOWNLOAD_URL}/${ETCD_VER}/etcd-${ETCD_VER}-linux-amd64.tar.gz -o /tmp/etcd-${ETCD_VER}-linux-amd64.tar.gz
+$ sudo tar xzvf /tmp/etcd-${ETCD_VER}-linux-amd64.tar.gz -C /usr/local/bin --strip-components=1
+
+</code></pre></div></div>
+
+<h2 id="확인">확인</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ etcd --version
+etcd Version: 3.5.0
+Git SHA: 946a5a6f2
+Go Version: go1.16.3
+Go OS/Arch: linux/amd64
+
+$ etcdctl version
+etcdctl version: 3.5.0
+API version: 3.5
+
+</code></pre></div></div>
+
+<h6 id="-출처--httpsetcdiodocsv35install">* 출처 : <a href="https://etcd.io/docs/v3.5/install/">https://etcd.io/docs/v3.5/install/</a></h6>
+:ET

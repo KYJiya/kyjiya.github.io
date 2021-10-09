@@ -1,0 +1,15 @@
+I"�<h1 id="snap을-통해-kube-scheduler를-설치해-보자">Snap을 통해 kube-scheduler를 설치해 보자.</h1>
+<p><br /></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ sudo snap install kube-scheduler
+kube-scheduler 1.21.4 from Canonical✓ installed
+
+</code></pre></div></div>
+
+<h2 id="확인">확인</h2>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ kube-scheduler --version
+Kubernetes v1.21.5
+
+</code></pre></div></div>
+
+<h2 id="wsl2-ubuntu에서-재시작하는-경우-snapd를-다시-활성화-한-뒤-체크">wsl2 ubuntu에서 재시작하는 경우 snapd를 다시 활성화 한 뒤 체크</h2>
+:ET
