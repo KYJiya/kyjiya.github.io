@@ -6,11 +6,16 @@ background: '/img/bg-about.jpg'
 ---
 # CAREER
 - - -
-> __2021.07 ~__  
+> __2022.03 ~__
+__Data Scientist__
+__B4Play Inc.__
+-> Data Scientist.
+
+> __2021.07 ~ 2022.03__  
 __Backend development manager__  
 __Shiftone Co., Ltd.__  
--> Development backend API using FLASK-RESTX or FastAPI of Python.  
-Build the CI/CD pipeline.
+-> Development backend api using python flask restx, fastapi, build the CI/CD pipeline.
+Build saas & cloud infra on kubernetes with k8s api & fastapi & python at Company S.
 
 > __2018.10 ~ 2021.06__  
 __Senior Researcher__  
