@@ -6,9 +6,9 @@ background: '/img/bg-about.jpg'
 ---
 # CAREER
 - - -
-> __2022.03 ~__
-__Data Scientist__
-__B4Play Inc.__
+> __2022.03 ~__  
+__Data Scientist__  
+__B4Play Inc.__  
 -> Data Scientist.
 
 > __2021.07 ~ 2022.03__  
