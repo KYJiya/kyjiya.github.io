@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kwon Yong Jun
-description: Shiftone Co., Ltd. Backend Development Manager Kwon Yong Jun
+description: Data Scientist Kwon Yong Jun at B4PLAY
 background: '/img/bg-about.jpg'
 ---
 # CAREER
@@ -12,7 +12,7 @@ __B4Play Inc.__
 -> Data Scientist.
 
 > __2021.07 ~ 2022.03__  
-__Backend development manager__  
+__Senior Back End Developer__  
 __Shiftone Co., Ltd.__  
 -> Development backend api using python flask restx, fastapi, build the CI/CD pipeline.
 Build saas & cloud infra on kubernetes with k8s api & fastapi & python at Company S.
@@ -25,13 +25,13 @@ Responsible for several PMs of national projects, forming friendly relationships
 Responsible for HR work, selecting interview and recruitment criteria to increase the development team, laying the groundwork for hiring excellent talent.
 
 > __2018.06 ~ 2018.09__  
-__Programming & Mathmatics Instructor__  
+__Computer Programming Language & Math Teacher__  
 __Weisman Academy for the Gifted__  
 -> Mathematics instructor who teaches mathematics prior learning for elementary and middle school students.  
 Programming instructor who teaches programming thinking to elementary school students (Scratch).
 
 > __2014.03 ~ 2018.04__  
-__Researcher__  
+__Graduate Researcher__  
 __Korea Astronomy & Space Science Institute__  
 -> Operation of solar telescope, solar radio wave observing telescope, and solar radio burst locator (KSRBL).  
 Upgrade of KSRBL operation program and post-processing of observation data (IDL and LabVIEW).  
@@ -56,7 +56,4 @@ Also, I was interested in software development, took other classes such as Conti
 
 # PORTFOLIO
 - - -  
-> [임다예 박사 업적 홈페이지 github를 사용하여 구현](https://dayelim.github.io)  
-
-> [React로 구현하여 깃허브 배포까지 완료한 tic-tac-toe](https://kyjiya.github.io/tic-tac-toe/)
-
+> [Implemented using github for the home page of Dr. Lim Daye's achievements](https://dayelim.github.io)  

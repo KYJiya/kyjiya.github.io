@@ -1,6 +1,6 @@
 title:              Dajun's Creed
 # email:              kwon_yongjun@khu.ac.kr
-description:        Shiftone Co., Ltd. Backend Development Manager Kwon Yong Jun
+description:        Data Scientist Kwon Yong Jun at B4PLAY
 author:             Kwon Yong Jun
 baseurl:            ""
 url:                "https://KYJiya.github.io"
@@ -14,6 +14,7 @@ linkedin_username:  용준-권-227815210
 
 # Build settings
 markdown:           kramdown
+asset_url: /assets
 paginate:           5
 paginate_path:      "/posts/page:num/"
 plugins:

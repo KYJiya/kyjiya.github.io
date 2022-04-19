@@ -1,4 +1,4 @@
-I"�<h1 id="career">CAREER</h1>
+I"j<h1 id="career">CAREER</h1>
 <hr />
 <blockquote>
   <p><strong>2022.03 ~</strong><br />
@@ -9,7 +9,7 @@
 
 <blockquote>
   <p><strong>2021.07 ~ 2022.03</strong><br />
-<strong>Backend development manager</strong><br />
+<strong>Senior Back End Developer</strong><br />
 <strong>Shiftone Co., Ltd.</strong><br />
 -&gt; Development backend api using python flask restx, fastapi, build the CI/CD pipeline.
 Build saas &amp; cloud infra on kubernetes with k8s api &amp; fastapi &amp; python at Company S.</p>
@@ -26,7 +26,7 @@ Responsible for HR work, selecting interview and recruitment criteria to increas
 
 <blockquote>
   <p><strong>2018.06 ~ 2018.09</strong><br />
-<strong>Programming &amp; Mathmatics Instructor</strong><br />
+<strong>Computer Programming Language &amp; Math Teacher</strong><br />
 <strong>Weisman Academy for the Gifted</strong><br />
 -&gt; Mathematics instructor who teaches mathematics prior learning for elementary and middle school students.<br />
 Programming instructor who teaches programming thinking to elementary school students (Scratch).</p>
@@ -34,7 +34,7 @@ Programming instructor who teaches programming thinking to elementary school stu
 
 <blockquote>
   <p><strong>2014.03 ~ 2018.04</strong><br />
-<strong>Researcher</strong><br />
+<strong>Graduate Researcher</strong><br />
 <strong>Korea Astronomy &amp; Space Science Institute</strong><br />
 -&gt; Operation of solar telescope, solar radio wave observing telescope, and solar radio burst locator (KSRBL).<br />
 Upgrade of KSRBL operation program and post-processing of observation data (IDL and LabVIEW).<br />
@@ -65,11 +65,6 @@ Also, I was interested in software development, took other classes such as Conti
 <h1 id="portfolio">PORTFOLIO</h1>
 <hr />
 <blockquote>
-  <p><a href="https://dayelim.github.io">임다예 박사 업적 홈페이지 github를 사용하여 구현</a></p>
+  <p><a href="https://dayelim.github.io">Implemented using github for the home page of Dr. Lim Daye’s achievements</a></p>
 </blockquote>
-
-<blockquote>
-  <p><a href="https://kyjiya.github.io/tic-tac-toe/">React로 구현하여 깃허브 배포까지 완료한 tic-tac-toe</a></p>
-</blockquote>
-
 :ET
