@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Kwon Yong Jun
-description: Data Scientist Kwon Yong Jun at B4PLAY
+description: Backend Engineer Kwon Yong Jun
 background: '/img/bg-about.jpg'
 ---
 # CAREER
 - - -
-> __2022.03 ~__  
+> __2022.03 ~ 2022.04__  
 __Data Scientist__  
 __B4Play Inc.__  
 -> Data Scientist.
