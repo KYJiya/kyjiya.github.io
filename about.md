@@ -9,7 +9,7 @@ background: '/img/bg-about.jpg'
 > __2022.03 ~ 2022.04__  
 __Data Scientist__  
 __B4Play Inc.__  
--> Insert a web scraped review into NEO4J for NLP study.  
+-> Insert a web scraped review into Neo4J for NLP study.  
 NLP Study for matching between words representing a game review and game keywords.  
 -> python, NLP, Neo4J  
 
