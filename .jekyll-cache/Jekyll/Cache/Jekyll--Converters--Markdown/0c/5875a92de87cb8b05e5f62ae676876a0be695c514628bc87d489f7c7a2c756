@@ -1,0 +1,88 @@
+I"&<h1 id="career">CAREER</h1>
+<hr />
+<blockquote>
+  <p><strong>2022.03 ~ 2022.04</strong><br />
+<strong>Data Scientist</strong><br />
+<strong>B4Play Inc.</strong><br />
+-&gt; Insert a web scraped review into NEO4J for NLP study.<br />
+NLP Study for matching between words representing a game review and game keywords.<br />
+-&gt; python, NLP, Neo4J</p>
+</blockquote>
+
+<blockquote>
+  <p><strong>2021.07 ~ 2022.03</strong><br />
+<strong>Senior Back End Developer</strong><br />
+<strong>Shiftone Co., Ltd.</strong><br />
+-&gt; Development backend api using python flask restx, fastapi, build the CI/CD pipeline.
+Build saas &amp; cloud infra on kubernetes with k8s api &amp; fastapi &amp; python at Company S.<br />
+-&gt; python, flask, fastapi, kubernetes, gitlab ci/cd, postgresql DB</p>
+</blockquote>
+
+<blockquote>
+  <p><strong>2018.10 ~ 2021.06</strong><br />
+<strong>Senior Researcher</strong><br />
+<strong>Futuremain Co., Ltd.</strong><br />
+-&gt; Development and maintenance of data mining software and instrument drivers using LabVIEW and JAVA at a company with a web-based solution that automatically diagnoses the condition of large plants using vibration.<br />
+Development IoT sensor using Raspberry Pi, semiconductor vibration sensors and strain gauge.<br />
+Responsible for several PMs of national projects, forming friendly relationships with clients and subcontractors, as well as leading and managing schedules to ensure successful completion of projects.<br />
+Responsible for HR work, selecting interview and recruitment criteria to increase the development team, laying the groundwork for hiring excellent talent.
+-&gt; LabVIEW, JAVA, Oracle DB, Raspberry Pi, python, adxl345, adxl1002, straingauge</p>
+</blockquote>
+
+<blockquote>
+  <p><strong>2018.06 ~ 2018.09</strong><br />
+<strong>Computer Programming Language &amp; Math Teacher</strong><br />
+<strong>Weisman Academy for the Gifted</strong><br />
+-&gt; Mathematics instructor who teaches mathematics prior learning for elementary and middle school students.<br />
+Programming instructor who teaches programming thinking to elementary school students (Scratch).</p>
+</blockquote>
+
+<blockquote>
+  <p><strong>2014.03 ~ 2018.04</strong><br />
+<strong>Graduate Researcher</strong><br />
+<strong>Korea Astronomy &amp; Space Science Institute</strong><br />
+-&gt; Operation of solar telescope, solar radio wave observing telescope, and solar radio burst locator (KSRBL).<br />
+Upgrade of KSRBL operation program and post-processing of observation data (IDL and LabVIEW).<br />
+Implementation and study of simulations to predict the amount of radiation exposure of crew members of the International Space Station in the event of a solar explosion (FORTRAN).<br />
+-&gt; IDL, LabVIEW, FORTRAN</p>
+</blockquote>
+
+<h1 id="education">EDUCATION</h1>
+<hr />
+<blockquote>
+  <p><strong>2011 ~ 2014</strong><br />
+<strong>Ph.D candidate</strong> <br />
+<strong>Graduate School Kyung Hee University: School of Space Research</strong><br />
+-&gt; Solar physics simulation was studied.<br />
+Simulation code was written using Fortran to simulate explosions occurring in the sun,
+the result was processed and post-corrected using IDL language.</p>
+</blockquote>
+
+<blockquote>
+  <p><strong>2004 ~ 2011</strong><br />
+<strong>Bachelor’s degree</strong><br />
+<strong>Kyung Hee University: Department of Astronomy &amp; Space Science</strong><br />
+-&gt; Conduct active student council activities.<br />
+Held an academic event with the participation of students and requesting presentations from graduate school seniors and professors as the Student Council Academic Director.<br />
+Members were encouraged to participate in the event as the Grade Representative. Baseball, star observation club.<br />
+Therefore, I do not only learned astronomy, mathematics, physics, and chemistry, which are pure sciences, but also took basic optics to help understand telescopes, fluid mechanics and electromagnetics necessary for rocket design, C++, Labview language classes for machine control, and IDL script language for data analysis.<br />
+Also, I was interested in software development, took other classes such as Continuous and Descrete Signals and Systems, and Data Structures.<br />
+<br /></p>
+</blockquote>
+
+<h1 id="certification">CERTIFICATION</h1>
+<hr />
+<blockquote>
+  <p><strong>Certified Kubernetes Administrator</strong><br />
+<strong>The Linux Foundation</strong><br />
+<strong>2021.12 ~ 2024.12</strong><br />
+<strong>LF-cdfod454hf</strong><br />
+<img src="https://github.com/KYJiya/KYJiya.github.io/blob/master/img/pdf/yongjun-kwon-fcded267-b431-4827-86b8-64fd6b4151ac-certificate.png?raw=true" alt="Link" width="100" height="100" /></p>
+</blockquote>
+
+<h1 id="portfolio">PORTFOLIO</h1>
+<hr />
+<blockquote>
+  <p><a href="https://dayelim.github.io">Implemented using github for the home page of Dr. Lim Daye’s achievements</a></p>
+</blockquote>
+:ET
