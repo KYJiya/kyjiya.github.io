@@ -5,7 +5,7 @@ description: Backend Engineer Kwon Yong Jun
 background: '/img/bg-about.jpg'
 ---
 # CAREER
-- - -
+- - -  
 > __2022.03 ~ 2022.04__  
 __Data Scientist__  
 __B4Play Inc.__  
@@ -44,7 +44,7 @@ Implementation and study of simulations to predict the amount of radiation expos
 -> IDL, LabVIEW, FORTRAN  
 
 # EDUCATION
-- - -
+- - -  
 > __2011 ~ 2014__  
 __Ph.D candidate__   
 __Graduate School Kyung Hee University: School of Space Research__  
@@ -63,6 +63,7 @@ Also, I was interested in software development, took other classes such as Conti
 <br>
 
 # CERTIFICATION
+- - -  
 > __Certified Kubernetes Administrator__  
 __The Linux Foundation__  
 __2021.12 ~ 2024.12__  
