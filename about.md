@@ -26,7 +26,7 @@ __Futuremain Co., Ltd.__
 -> Development and maintenance of data mining software and instrument drivers using LabVIEW and JAVA at a company with a web-based solution that automatically diagnoses the condition of large plants using vibration.  
 Development IoT sensor using Raspberry Pi, semiconductor vibration sensors and strain gauge.  
 Responsible for several PMs of national projects, forming friendly relationships with clients and subcontractors, as well as leading and managing schedules to ensure successful completion of projects.  
-Responsible for HR work, selecting interview and recruitment criteria to increase the development team, laying the groundwork for hiring excellent talent.
+Responsible for HR work, selecting interview and recruitment criteria to increase the development team, laying the groundwork for hiring excellent talent.  
 -> LabVIEW, JAVA, Oracle DB, Raspberry Pi, python, adxl345, adxl1002, straingauge
 
 > __2018.06 ~ 2018.09__  
