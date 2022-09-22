@@ -43,6 +43,8 @@ Upgrade of KSRBL operation program and post-processing of observation data (IDL 
 Implementation and study of simulations to predict the amount of radiation exposure of crew members of the International Space Station in the event of a solar explosion (FORTRAN).  
 -> IDL, LabVIEW, FORTRAN  
 
+# EDUCATION
+- - -
 > __2011 ~ 2014__  
 __Ph.D candidate__   
 __Graduate School Kyung Hee University: School of Space Research__  
@@ -59,6 +61,13 @@ Members were encouraged to participate in the event as the Grade Representative.
 Therefore, I do not only learned astronomy, mathematics, physics, and chemistry, which are pure sciences, but also took basic optics to help understand telescopes, fluid mechanics and electromagnetics necessary for rocket design, C++, Labview language classes for machine control, and IDL script language for data analysis.  
 Also, I was interested in software development, took other classes such as Continuous and Descrete Signals and Systems, and Data Structures.  
 <br>
+
+# CERTIFICATION
+> __Certified Kubernetes Administrator__  
+__The Linux Foundation__  
+__2021.12 ~ 2024.12__  
+__LF-cdfod454hf__  
+![Link](https://github.com/KYJiya/KYJiya.github.io/blob/master/img/pdf/yongjun-kwon-fcded267-b431-4827-86b8-64fd6b4151ac-certificate.png)  
 
 # PORTFOLIO
 - - -  
