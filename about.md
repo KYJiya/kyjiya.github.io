@@ -69,7 +69,7 @@ __The Linux Foundation__
 __2021.12 ~ 2024.12__  
 __LF-cdfod454hf__  
 [![Link](https://github.com/KYJiya/KYJiya.github.io/blob/master/img/pdf/yongjun-kwon-fcded267-b431-4827-86b8-64fd6b4151ac-certificate.png?raw=true){: width="50%" height="50%"}](https://github.com/KYJiya/KYJiya.github.io/blob/master/img/pdf/yongjun-kwon-fcded267-b431-4827-86b8-64fd6b4151ac-certificate.pdf){: target="_blank"}  
-
+<br>
 
 # PORTFOLIO
 - - -  
