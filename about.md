@@ -9,20 +9,25 @@ background: '/img/bg-about.jpg'
 > __2022.03 ~ 2022.04__  
 __Data Scientist__  
 __B4Play Inc.__  
--> Data Scientist.
+-> Insert a web scraped review into NEO4J for NLP study.  
+NLP Study for matching between words representing a game review and game keywords.  
+-> python, NLP, Neo4J  
 
 > __2021.07 ~ 2022.03__  
 __Senior Back End Developer__  
 __Shiftone Co., Ltd.__  
 -> Development backend api using python flask restx, fastapi, build the CI/CD pipeline.
-Build saas & cloud infra on kubernetes with k8s api & fastapi & python at Company S.
+Build saas & cloud infra on kubernetes with k8s api & fastapi & python at Company S.  
+-> python, flask, fastapi, kubernetes, gitlab ci/cd, postgresql DB  
 
 > __2018.10 ~ 2021.06__  
 __Senior Researcher__  
 __Futuremain Co., Ltd.__  
 -> Development and maintenance of data mining software and instrument drivers using LabVIEW and JAVA at a company with a web-based solution that automatically diagnoses the condition of large plants using vibration.  
+Development IoT sensor using Raspberry Pi, semiconductor vibration sensors and strain gauge.  
 Responsible for several PMs of national projects, forming friendly relationships with clients and subcontractors, as well as leading and managing schedules to ensure successful completion of projects.  
 Responsible for HR work, selecting interview and recruitment criteria to increase the development team, laying the groundwork for hiring excellent talent.
+-> LabVIEW, JAVA, Oracle DB, Raspberry Pi, python, adxl345, adxl1002, straingauge
 
 > __2018.06 ~ 2018.09__  
 __Computer Programming Language & Math Teacher__  
@@ -35,7 +40,8 @@ __Graduate Researcher__
 __Korea Astronomy & Space Science Institute__  
 -> Operation of solar telescope, solar radio wave observing telescope, and solar radio burst locator (KSRBL).  
 Upgrade of KSRBL operation program and post-processing of observation data (IDL and LabVIEW).  
-Implementation and study of simulations to predict the amount of radiation exposure of crew members of the International Space Station in the event of a solar explosion (FORTRAN)
+Implementation and study of simulations to predict the amount of radiation exposure of crew members of the International Space Station in the event of a solar explosion (FORTRAN).  
+-> IDL, LabVIEW, FORTRAN  
 
 > __2011 ~ 2014__  
 __Ph.D candidate__   
